@@ -1,0 +1,16 @@
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\bin\Debug\net5.0\C-Sharp.exe
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\bin\Debug\net5.0\C-Sharp.deps.json
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\bin\Debug\net5.0\C-Sharp.runtimeconfig.json
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\bin\Debug\net5.0\C-Sharp.runtimeconfig.dev.json
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\bin\Debug\net5.0\C-Sharp.dll
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\bin\Debug\net5.0\ref\C-Sharp.dll
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\bin\Debug\net5.0\C-Sharp.pdb
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\C-Sharp.csprojAssemblyReference.cache
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\C-Sharp.AssemblyInfoInputs.cache
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\C-Sharp.AssemblyInfo.cs
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\C-Sharp.csproj.CoreCompileInputs.cache
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\C-Sharp.dll
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\ref\C-Sharp.dll
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\C-Sharp.pdb
+D:\C_Sharp for Automation\C-Sharp\C-Sharp\obj\Debug\net5.0\C-Sharp.genruntimeconfig.cache
